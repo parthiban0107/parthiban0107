@@ -1,0 +1,9 @@
+{
+	"name": "yadhanademo",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "16caffd1-5048-40b6-8fad-9341af8de69e",
+		"tenantId": "8fd108bc-523d-4ae6-9a75-c59cedd5c7e5"
+	}
+}
